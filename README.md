@@ -30,6 +30,6 @@ Voici le câblage du projet:
 
 <span style="display:block;text-align:center">
 
-[![](miniature.JPG#center)](https://youtu.be/hr_6_xS2SZ4)
+[![](miniature.jpg#center)](https://youtu.be/hr_6_xS2SZ4)
 
 </span>
