@@ -11,3 +11,6 @@ Matériel utilisé :
 * Diode 1N4007
 * Résistance de 10kOhms
 * Alimentation externe 12V
+
+## Montage électronique
+Voici le câblage du projet:
