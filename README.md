@@ -22,6 +22,7 @@ Voici le câblage du projet:
 📦project 
 │   📜README.md
 │   📜cablage.PNG
+│   📜miniature.JPG
 └───📜systeme_arrosage_automatique.ino
 ```
 
