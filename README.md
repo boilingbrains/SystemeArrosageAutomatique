@@ -17,6 +17,13 @@ Voici le câblage du projet:
 
 ![](cablage.PNG#center)
 
+## Structure du projet
+```
+📦project 
+│   📜README.md
+│   📜cablage.PNG
+└───📜systeme_arrosage_automatique.ino
+```
 
 ## Explications:
 
