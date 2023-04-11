@@ -1,4 +1,4 @@
-# SystemeArrosageAutomatique
+# Système d'arrosage automatique
 
 ## Introduction: 
 Ce projet consiste à automatiser l'arrosage d'une plante grâce à l'Arduino.
