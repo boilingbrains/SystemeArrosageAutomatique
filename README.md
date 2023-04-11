@@ -14,3 +14,14 @@ Matériel utilisé :
 
 ## Montage électronique
 Voici le câblage du projet:
+
+![](cablage.JPG#center)
+
+
+## Explications:
+
+<span style="display:block;text-align:center">
+
+[![](miniature.JPG#center)](https://youtu.be/FlmrZ26s-9A)
+
+</span>
