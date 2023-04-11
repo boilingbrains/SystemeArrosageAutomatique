@@ -15,7 +15,7 @@ Matériel utilisé :
 ## Montage électronique
 Voici le câblage du projet:
 
-![](cablage.JPG#center)
+![](cablage.PNG#center)
 
 
 ## Explications:
